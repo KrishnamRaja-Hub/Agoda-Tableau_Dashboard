@@ -2,7 +2,7 @@
 
 This project presents an interactive Tableau dashboard built using sample flight data from Agoda. The dashboard visualizes ₹8.6 million in sales and over 9,050 bookings, allowing users to explore trends and performance metrics in real time.
 
-**Key Features**
+**Key Features** 
 	•	Interactive Exploration: Filter data by year, month, destination, and seat type to uncover dynamic patterns.
 	•	Sales & Bookings Overview: Visual representation of total sales and booking volumes, segmented by different timeframes and categories.
 	•	Agency & Destination Insights: Identify high-performing travel agencies and top travel destinations based on booking trends.
